@@ -1,4 +1,4 @@
-# Kint 2.0 as Submodule
+# Kint 2.2 as Submodule
 
 Provides a way to implement Kint as a Submodule for people who don't like to use Composer.
 
